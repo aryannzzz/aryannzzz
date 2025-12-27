@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Project GRASP and Project Neurospike**
 
-- 🌱 I’m currently learning **Cutting-Edge AI and robotics technoly and frameworks**
+- 🌱 I’m currently learning **Cutting-Edge AI and robotics technology and frameworks**
 
 - 📫 How to reach me: **ch24b040@smail.iitm.ac.in**
 
