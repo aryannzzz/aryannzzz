@@ -99,9 +99,7 @@ I'm always excited to collaborate on innovative AI/ML projects or discuss cuttin
 
 📧 **Email:** [ch24b040@smail.iitm.ac.in](mailto:ch24b040@smail.iitm.ac.in)
 
-💼 **LinkedIn:** [a.jacked.nerd](https://linkedin.com/in/a.jacked.nerd)
-
-📷 **Instagram:** [@a_jacked_nerd](https://instagram.com/a_jacked_nerd)
+💼 **LinkedIn:** [aryan-jain-iitm](https://www.linkedin.com/in/aryan-jain-iitm/)
 
 </div>
 
