@@ -1,4 +1,3 @@
-[README (8).md](https://github.com/user-attachments/files/25160059/README.8.md)
 <div align="center">
   
 # 👋 Hey there! I'm Aryan Jain
