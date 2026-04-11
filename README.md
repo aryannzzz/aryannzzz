@@ -22,7 +22,7 @@ class AryanJain:
     def __init__(self):
         self.username = "aryannzzz"
         self.location = "IIT Madras, India"
-        self.education = "Bachelor's in Engineering Physics"
+        self.education = "Bachelor's in Chemical Engineering"
         self.interests = ["AI/ML", "Robotics", "Computer Vision", "Deep Learning"]
         self.current_projects = ["Project GRASP", "Project Neurospike"]
         
